@@ -9,8 +9,9 @@ Welcome to pf_pj_kpt's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   KPTs/20130116.rst
 
 
 Indices and tables
